@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NabonitaGhosh
+- 👋 Hi, I’m NabonitaGhosh
 - 👀 I’m interested in software devolopment
 - 🌱 I’m currently learning C++
 - 📫 How to reach me ...<nabonitaghosh893@gmail.com>
